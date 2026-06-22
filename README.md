@@ -8,5 +8,3 @@
 - Franco Agustín Gomez Torres
 - Juan Manuel Mateo
 - Valentín Seara
-
-- 
